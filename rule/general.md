@@ -1,7 +1,6 @@
 ---
-label: FiveMルール
-order: 999998
-icon: repo
+label: 一般ルール
+order: 100
 ---
 
 ## 参加における条件
