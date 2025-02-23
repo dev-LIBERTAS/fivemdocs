@@ -4,4 +4,4 @@ order: 999999
 icon: light-bulb
 ---
 
-tos
+tos.md
