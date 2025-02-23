@@ -1,6 +1,7 @@
 ---
 label: 一般ルール
 order: 100
+icon: triangle-right
 ---
 
 ## 参加における条件
