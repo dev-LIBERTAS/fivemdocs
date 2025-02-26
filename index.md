@@ -14,11 +14,14 @@ icon: bookmark
 - **[利用規約](https://fivemdocs.libertasmc.xyz/tos/)**  
   利用規約が記載されております。必ず内容を確認して同意をお願いいたします。
 
-- **[Libertasルール](https://fivemdocs.libertasmc.xyz/rule/general/)**  
-  Libertasルールが記載されているページです。
+- **[一般ルール](https://fivemdocs.libertasmc.xyz/rule/general/)**  
+  Libertasの一般市民が厳守するべきルールが記載されているページです。
+
+- **[犯罪ルール](https://fivemdocs.libertasmc.xyz/rule/crime/)**  
+  Libertasの犯罪者が厳守するべきルールが記載されているページです。
 
 - **[接続方法](https://fivemdocs.libertasmc.xyz/wakaba/how-to-join/)**  
   サーバーのダイレクト接続のやり方が記載されています。
 
 - **[RP用語集](https://fivemdocs.libertasmc.xyz/wakaba/rpwords/)**  
-  Libertas内で使われる用語集です。
+  LibertasRP内で使われる用語集です。
