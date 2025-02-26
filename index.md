@@ -7,30 +7,19 @@ icon: bookmark
 # Libertas FiveMドキュメントへようこそ！
 
 ようこそ！  
-ここはFiveMに関する情報やガイドが詰まった、あなたのためのドキュメントサイトです。  
-初心者から上級者まで、サーバーの設定方法やカスタマイズのヒントなど、役立つコンテンツを揃えました。  
-Libertasコミュニティの一員として、自由に学び、創造し、楽しむための第一歩を踏み出しましょう。  
-さあ、一緒にFiveMの世界を探索してみませんか？
+ようこそ、この果てしないLibertasの世界へ！ここはネオンの光が照らす街並み、隠された裏通り、そして誰も知らない秘密が息づく世界。
+車を走らせ、街を歩き回り、自分のスタイルで生き抜け。君の手で、この都市の物語を刻もう。今、鍵は渡された！どこへ向かうかは君次第だ。
 
 ## 目次
 
-- **[はじめに](./docs/introduction.md)**  
-  FiveMとは何か、基本的な概要やこのドキュメントの使い方を紹介します。
+- **[利用規約](https://fivemdocs.libertasmc.xyz/tos/)**  
+  利用規約が記載されております。必ず内容を確認して同意をお願いいたします。
 
-- **[インストールガイド](./docs/installation.md)**  
-  FiveMサーバーのセットアップ手順をステップごとに解説します。
+- **[Libertasルール](https://fivemdocs.libertasmc.xyz/rule/general/)**  
+  Libertasルールが記載されているページです。
 
-- **[サーバー設定](./docs/server-configuration.md)**  
-  サーバーのカスタマイズや最適化に必要な設定方法を詳しく説明。
+- **[接続方法](https://fivemdocs.libertasmc.xyz/wakaba/how-to-join/)**  
+  サーバーのダイレクト接続のやり方が記載されています。
 
-- **[スクリプトとMOD](./docs/scripts-and-mods.md)**  
-  おすすめのスクリプトやMODの導入方法をチェック。
-
-- **[トラブルシューティング](./docs/troubleshooting.md)**  
-  よくある問題とその解決策をまとめました。困ったときにどうぞ。
-
-- **[コミュニティガイド](./docs/community-guide.md)**  
-  LibertasMCコミュニティでのルールや参加方法をご案内。
-
-- **[FAQ](./docs/faq.md)**  
-  よく寄せられる質問とその回答を一挙公開。
+- **[RP用語集](https://fivemdocs.libertasmc.xyz/wakaba/rpwords/)**  
+  Libertas内で使われる用語集です。
