@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793868379060">
+    <meta name="turbo-cache-control" content="no-cache" data-turbo-track="reload" data-track-token="3.6.0.793869146751">
 
     <!-- See retype.com -->
     <meta name="generator" content="Retype 3.6.0">
@@ -30,11 +30,11 @@
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
-    <link href="../../resources/css/retype.css?v=3.6.0.793868379060" rel="stylesheet">
+    <link href="../../resources/css/retype.css?v=3.6.0.793869146751" rel="stylesheet">
 
-    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793868379060" data-turbo-eval="false" defer></script>
+    <script data-cfasync="false" src="../../resources/js/config.js?v=3.6.0.793869146751" data-turbo-eval="false" defer></script>
     <script data-cfasync="false" src="../../resources/js/retype.js?v=3.6.0" data-turbo-eval="false" defer></script>
-    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793868379060" data-turbo-eval="false" defer></script>
+    <script id="lunr-js" data-cfasync="false" src="../../resources/js/lunr.js?v=3.6.0.793869146751" data-turbo-eval="false" defer></script>
 </head>
 <body>
     <div id="docs-app" class="relative text-base antialiased text-gray-700 bg-white font-body dark:bg-dark-850 dark:text-dark-300">
@@ -196,7 +196,7 @@
 <ul>
 <li><p>車両利用に原則制限はありません。</p>
 </li>
-<li><p>同一犯罪行為は、<code v-pre>30分間</code>のクールタイムを挟んでください。</p>
+<li><p>同一犯罪行為は、<code v-pre>30分</code>間のクールタイムを挟んでください。</p>
 </li>
 <li><p>犯罪行為を受注だけして、何も取得しないでその場を去る行為を禁止します。</p>
 </li>
@@ -235,7 +235,7 @@
         </div>
         <div class="pr-5 ml-3 w-full">
             <h5>注意</h5>
-<p>PD側が犯人を見失ってから<code v-pre>20分</code>経過したら【犯罪者が逃げ切る】が成立します。</p>
+<p>PD側が犯人を見失ってから<code v-pre>20分</code>経過したら<code v-pre>犯罪者が逃げ切る</code>が成立します。</p>
         </div>
     </div>
 </div>
@@ -310,20 +310,43 @@
 <li>PDを騙して人質にする行為を禁止します。</li>
 <li>人質の効力は、PD到着後<code v-pre>15分</code>までとなります。</li>
 </ul>
-<doc-anchor-target id="人質要求種類">
+<doc-anchor-target id="人質解放条件一覧">
     <h3>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#人質要求種類">#</doc-anchor-trigger>
-        <span>人質要求種類</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#人質解放条件一覧">#</doc-anchor-trigger>
+        <span>人質解放条件一覧</span>
     </h3>
 </doc-anchor-target>
 <ul>
 <li>乗り物によるアタック<code v-pre>1分</code>禁止</li>
 <li>ニトロ<code v-pre>1分</code>禁止</li>
+<li>車両を<code v-pre>1台</code>減らす
+<ul>
+<li>2台以上の場合のみ要求可能</li>
+</ul>
+</li>
 <li>ヘリエンジンスタート<code v-pre>1分</code>遅延</li>
 <li>発砲<code v-pre>1分</code>禁止(テーザー銃含む)</li>
 <li>スパイク禁止</li>
 <li>エンターテイメント要求</li>
 </ul>
+<div class="flex mb-6">
+    <div class="shrink-0 w-1 rounded-tl rounded-bl bg-blue-300"></div>
+    <div class="flex w-full py-4 border border-l-0 border-gray-300 rounded-tr rounded-br doc-alert bg-white dark:bg-dark-700 dark:border-dark-700" role="alert">
+        <div class="flex items-center ml-4 h-7">
+            <svg xmlns="http://www.w3.org/2000/svg" class="mb-px text-blue-300" width="22" height="22" viewBox="0 0 24 24" role="presentation">
+                <g fill="currentColor"><g>
+                    <path d="M12 1C5.93 1 1 5.93 1 12s4.93 11 11 11 11-4.93 11-11S18.07 1 12 1zm0 20c-4.96 0-9-4.04-9-9s4.04-9 9-9 9 4.04 9 9-4.04 9-9 9z"></path>
+                    <path d="M12 11c-.55 0-1 .45-1 1v4c0 .55.45 1 1 1s1-.45 1-1v-4c0-.55-.45-1-1-1zM12.01 7c-.56 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z"></path>
+                    <path fill="none" d="M0 0h24v24H0z"></path>
+                </g></g>
+            </svg>
+        </div>
+        <div class="pr-5 ml-3 w-full">
+            <h5>ヒント</h5>
+<p>上記の人質解放条件一覧はあくまでも例であり、最終的にお互いが納得できる内容であれば問題ありません。</p>
+        </div>
+    </div>
+</div>
 
                                 
                                 <!-- Required only on API pages -->
