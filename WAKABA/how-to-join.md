@@ -36,6 +36,8 @@ how-to-join.md
 <br>
 <br>  
 4."`Fivem needs to update the local game data`"が表示された場合、"**はい**"を選択し、追加のデータをインストールしてください。  
+<br>
+<br>  
 ![fivem4](https://github.com/user-attachments/assets/0d5673f2-38af-4b9d-9f89-4b5d52d3324d)
 5.インストールが終わると利用規約の同意を求められるので"I Accept"を選択します。  
 ![fivem5](https://github.com/user-attachments/assets/4b3f7088-c94e-4094-9a48-e062559f4597)
