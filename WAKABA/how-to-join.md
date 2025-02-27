@@ -16,5 +16,7 @@ how-to-join.md
 <br>
 3.起動後、`Go to your directory and select GTA5.exe....`と記載されているエクスプローラーが表示されます。
 開かれているフォルダーに"GTA5"と書かれたファイルがある場合はそちらを選択し、"**開く**"をクリックしてください。  
+<br>
+<br>
 "**※ 開かれなかった場合は4までスキップを。自動で検出されています。**"
 ![fivem2](https://github.com/user-attachments/assets/1e2809be-749b-4f30-acdf-96820aa75bed)
