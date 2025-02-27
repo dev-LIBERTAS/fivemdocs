@@ -9,7 +9,7 @@ icon: triangle-right
 ![スクリーンショット 2025-02-27 075354d](https://github.com/user-attachments/assets/6cac2bd4-ab08-4dfd-91be-75a6c958bd5c)
 2.MAP上にあるオレンジのGのマークに向かいます。
 ![スクリーンショット 2025-02-27 083400](https://github.com/user-attachments/assets/d2d7ca9b-d66a-4d94-9115-6945d84e8050)
-3.フェンス中にいる人に心の目で話しかけます。
+3.フェンス中にいるNPCに心の目で話しかけます。
 ![スクリーンショット 2025-02-27 083411](https://github.com/user-attachments/assets/23e29f57-eb7f-42e3-8a8e-4ad01ecc8536)
 4.話しかけ、仕事を受注すると後方に配達用トラックが出てきますのでそちらに乗ってください。
 ![スクリーンショット 2025-02-27 083436](https://github.com/user-attachments/assets/b2ed0ea4-427e-48e3-9645-823884c7e180)
