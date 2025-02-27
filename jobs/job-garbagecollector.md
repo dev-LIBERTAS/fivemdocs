@@ -22,6 +22,6 @@ icon: triangle-right
 8.ゴミを回収することができたら、ゴミ収集車の後ろに行き心の目でゴミ収集車にゴミを入れます。
 ![スクリーンショット 2025-02-27 075955](https://github.com/user-attachments/assets/6210f374-a809-45c4-b43c-bcc5cf9e351a)
 9.すべて回収し終わるとこの様な通知が右上に出ます。この通知が出たら、ゴミ収集車を会社に返却しに行きましょう。
-![スクリーンショット 2025-02-27 080751](https://github.com/user-attachments/assets/52fb000e-1ff3-4e1c-8f39-56ed7be53502)
+![スクリーンショット 2025-02-27 080751](https://github.com/user-attachments/assets/52fb000e-1ff3-4e1c-8f39-56ed7be53502)  
 10.会社に着いたら階段上にいる人に話しかけjobを終了することができます。
 ![スクリーンショット 2025-02-27 081017](https://github.com/user-attachments/assets/37732ac9-ed1e-4d65-bf2e-b6ba0409dbdd)
