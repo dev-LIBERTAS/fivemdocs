@@ -18,9 +18,21 @@ how-to-join.md
 開かれているフォルダーに"GTA5"と書かれたファイルがある場合はそちらを選択し、"**開く**"をクリックしてください。  
 <br>
 <br>
-"**※ 開かれなかった場合は4までスキップを。自動で検出されています。**"
+**※ 開かれなかった場合は4までスキップを。自動で検出されています。**
 ![fivem2](https://github.com/user-attachments/assets/1e2809be-749b-4f30-acdf-96820aa75bed)
 <br>
 <br>
 **"GTA5"** が見つからない場合（見つけた方は4までスキップしてください。)
+`steam`でGTAVを購入した人
 * Steamを開き、"ライブラリ"に移動
+* "grand theft auto V"を右クリック → 管理 → ローカルファイルを閲覧
+<br>
+<br>
+`EPIC`でGTAVを購入した人
+* EPICを開き、"ライブラリ"に移動
+* "grand theft auto V"を右クリック → 管理 → "アンインストールの左のマーク(インストール先を確認)をクリック
+<br>
+<br>
+上記が終わったら上のアドレスバーを左クリックして、右クリックからコピーを選択します。
+そして、Go to your directory and select GTA5.exe...に戻り、アドレスバーを左クリックして右クリックから"貼り付け"を選択してください
+![fivem3](https://github.com/user-attachments/assets/ed42f23e-469f-4c5d-bb6d-69aa5f86d87a)
