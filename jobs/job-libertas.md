@@ -8,7 +8,7 @@ icon: triangle-right
 ## 初めに
 仕事を受けるためには市役所に行きます。
 ![スクリーンショット 2025-02-27 075307](https://github.com/user-attachments/assets/1500208b-e25c-4802-a88a-0dad4ec038ba)
-市役所の中にいる男の人にEキーで話しかけます。
+市役所の中にいるNPCにEキーで話しかけます。
 ![スクリーンショット 2025-02-27 075332](https://github.com/user-attachments/assets/b9850803-6770-484a-9ff5-b3120dd593c1)
 話しかけたら、このようになるので右の**EMPLOYMENT**を選択します。
 ![スクリーンショット 2025-02-27 075349](https://github.com/user-attachments/assets/e0e420b0-bbf1-45bd-b8e7-90f9b88b9e63)
