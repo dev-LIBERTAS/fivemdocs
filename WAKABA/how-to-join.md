@@ -11,7 +11,8 @@ how-to-join.md
 `SURE, I AGREEI`を選択してFivem.exeをインストールします。
 ![fivem1](https://github.com/user-attachments/assets/3fb35d63-e6de-4185-9155-1e098ce88aaf)
 2.ダウンロードした`Fivem.exe`をダブルクリックし、起動します。
-この時、Fivem.exeをダウンロードフォルダーから"**移動せずに**"に起動することを推奨します。　　
+この時、Fivem.exeをダウンロードフォルダーから"**移動せずに**"に起動することを推奨します。
+<br>
 3.起動後、`Go to your directory and select GTA5.exe....`と記載されているエクスプローラーが表示されます。
 開かれているフォルダーに"GTA5"と書かれたファイルがある場合はそちらを選択し、"**開く**"をクリックしてください。  
 "**※ 開かれなかった場合は4までスキップを。自動で検出されています。**"
