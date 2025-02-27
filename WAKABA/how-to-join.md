@@ -25,7 +25,9 @@ how-to-join.md
 **"GTA5"** が見つからない場合（見つけた方は4までスキップしてください。)  
 * steamでGTAVを購入した人
     * Steamを開き、"ライブラリ"に移動
-    * "grand theft auto V"を右クリック → 管理 → ローカルファイルを閲覧  
+    * "grand theft auto V"を右クリック → 管理 → ローカルファイルを閲覧
+<br>
+<br>
 * EPICでGTAVを購入した人
     * EPICを開き、"ライブラリ"に移動
     * "grand theft auto V"を右クリック → 管理 → "アンインストールの左のマーク(インストール先を確認)をクリック
