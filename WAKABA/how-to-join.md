@@ -49,5 +49,7 @@ how-to-join.md
 <br>  
 6.Cfxアカウントを作成します。必須ではありませんので必要ない方は7までスキップしてください。  
 "`Don't have an account? Register`"を選択し、Email、パスワード、ユーザー名を入力し、サイトの指示に従ってください。  
+<br>
+<br>  
 ![fivem6](https://github.com/user-attachments/assets/06e41421-86f2-412b-92f6-128ec5fbdb62)
 
