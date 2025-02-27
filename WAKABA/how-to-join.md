@@ -31,13 +31,13 @@ how-to-join.md
     * "grand theft auto V"を右クリック → 管理 → "アンインストールの左のマーク(インストール先を確認)をクリック
 
 上記が終わったら上のアドレスバーを左クリックして、右クリックからコピーを選択します。
-そして、Go to your directory and select GTA5.exe...に戻り、アドレスバーを左クリックして右クリックから"貼り付け"を選択してください。
+そして、Go to your directory and select GTA5.exe...に戻り、アドレスバーを左クリックして右クリックから"貼り付け"を選択してください。  
 ![fivem3](https://github.com/user-attachments/assets/91a4a878-545b-489f-bfa4-dabf5f23aa42)
-4."`Fivem needs to update the local game data`"が表示された場合、"**はい**"を選択し、追加のデータをインストールしてください。
+4."`Fivem needs to update the local game data`"が表示された場合、"**はい**"を選択し、追加のデータをインストールしてください。  
 ![fivem4](https://github.com/user-attachments/assets/0d5673f2-38af-4b9d-9f89-4b5d52d3324d)
-5.インストールが終わると利用規約の同意を求められるので"I Accept"を選択します。
+5.インストールが終わると利用規約の同意を求められるので"I Accept"を選択します。  
 ![fivem5](https://github.com/user-attachments/assets/4b3f7088-c94e-4094-9a48-e062559f4597)
-6.Cfxアカウントを作成します。必須ではありませんので必要ない方は7までスキップしてください。
-"`Don't have an account? Register`"を選択し、Email、パスワード、ユーザー名を入力し、サイトの指示に従ってください。
+6.Cfxアカウントを作成します。必須ではありませんので必要ない方は7までスキップしてください。  
+"`Don't have an account? Register`"を選択し、Email、パスワード、ユーザー名を入力し、サイトの指示に従ってください。  
 ![fivem6](https://github.com/user-attachments/assets/06e41421-86f2-412b-92f6-128ec5fbdb62)
 
