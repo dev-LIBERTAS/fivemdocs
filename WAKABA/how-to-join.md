@@ -53,3 +53,7 @@ how-to-join.md
 <br>  
 ![fivem6](https://github.com/user-attachments/assets/06e41421-86f2-412b-92f6-128ec5fbdb62)
 
+# Steamのインストールをお勧めします  
+**Source SDK Base 2007**というソフトが入っていないと、FiveMが正常動作しないことがあります。
+Steam経由でSource SDK Base 2007がインストールされますので、
+くれぐれもSteamをインストールしていただきますよう、お願い申し上げます。 
