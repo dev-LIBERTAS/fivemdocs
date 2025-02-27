@@ -9,7 +9,7 @@ icon: triangle-right
 ![スクリーンショット 2025-02-27 075354c](https://github.com/user-attachments/assets/ab13dada-6efe-46f8-9b6f-86eda141dde7)
 2.選択し仕事に就けたら、385番地のゴミ収集車マークに向かいます。
 ![スクリーンショット 2025-02-27 075144](https://github.com/user-attachments/assets/981998dd-c650-4a99-a27e-c7978d4c2fb9)
-3.385番地に着いた階段の上にいる人に心の目で話しかけます。
+3.385番地に着いた階段の上にいるNPCに心の目で話しかけます。
 ![スクリーンショット 2025-02-27 075208](https://github.com/user-attachments/assets/3defd040-5c74-4601-97bc-8dfaf089ef9c)
 4.そして1人で始めるを選択します。
 ![スクリーンショット 2025-02-27 075502](https://github.com/user-attachments/assets/24f31889-3a84-4ffb-852a-89b6935298ed)
@@ -23,5 +23,5 @@ icon: triangle-right
 ![スクリーンショット 2025-02-27 075955](https://github.com/user-attachments/assets/6210f374-a809-45c4-b43c-bcc5cf9e351a)
 9.すべて回収し終わるとこの様な通知が右上に出ます。この通知が出たら、ゴミ収集車を会社に返却しに行きましょう。
 ![スクリーンショット 2025-02-27 080751](https://github.com/user-attachments/assets/52fb000e-1ff3-4e1c-8f39-56ed7be53502)  
-10.会社に着いたら階段上にいる人に話しかけjobを終了することができます。
+10.会社に着いたら階段上にいるNPCに話しかけjobを終了することができます。
 ![スクリーンショット 2025-02-27 081017](https://github.com/user-attachments/assets/37732ac9-ed1e-4d65-bf2e-b6ba0409dbdd)
