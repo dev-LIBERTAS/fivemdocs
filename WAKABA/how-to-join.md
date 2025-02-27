@@ -32,5 +32,5 @@ how-to-join.md
 <br>
 <br>
 上記が終わったら上のアドレスバーを左クリックして、右クリックからコピーを選択します。
-そして、Go to your directory and select GTA5.exe...に戻り、アドレスバーを左クリックして右クリックから"貼り付け"を選択してください
+そして、Go to your directory and select GTA5.exe...に戻り、アドレスバーを左クリックして右クリックから"貼り付け"を選択してください  
 ![fivem3](https://github.com/user-attachments/assets/91a4a878-545b-489f-bfa4-dabf5f23aa42)
