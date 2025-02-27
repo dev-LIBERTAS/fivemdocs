@@ -22,7 +22,7 @@ how-to-join.md
 ![fivem2](https://github.com/user-attachments/assets/1e2809be-749b-4f30-acdf-96820aa75bed)
 <br>
 <br>
-**"GTA5"** が見つからない場合（見つけた方は4までスキップしてください。)
+**"GTA5"** が見つからない場合（見つけた方は4までスキップしてください。)  
 `steam`でGTAVを購入した人
 * Steamを開き、"ライブラリ"に移動
 * "grand theft auto V"を右クリック → 管理 → ローカルファイルを閲覧
