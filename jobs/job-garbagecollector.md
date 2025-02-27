@@ -1,6 +1,6 @@
 ---
 label: ごみ収集
-order: 101
+order: 102
 icon: triangle-right
 ---
 
