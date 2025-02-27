@@ -1,3 +1,9 @@
+---
+label: JOB受け方
+order: 101
+icon: triangle-right
+---
+
 # Jobの受け方
 ## 初めに
 仕事を受けるためには市役所に行きます。
