@@ -32,8 +32,9 @@ how-to-join.md
 
 上記が終わったら上のアドレスバーを左クリックして、右クリックからコピーを選択します。
 そして、Go to your directory and select GTA5.exe...に戻り、アドレスバーを左クリックして右クリックから"貼り付け"を選択してください。  
-![fivem3](https://github.com/user-attachments/assets/91a4a878-545b-489f-bfa4-dabf5f23aa42)
+![fivem3](https://github.com/user-attachments/assets/91a4a878-545b-489f-bfa4-dabf5f23aa42)  
 <br>
+<br>  
 4."`Fivem needs to update the local game data`"が表示された場合、"**はい**"を選択し、追加のデータをインストールしてください。  
 ![fivem4](https://github.com/user-attachments/assets/0d5673f2-38af-4b9d-9f89-4b5d52d3324d)
 5.インストールが終わると利用規約の同意を求められるので"I Accept"を選択します。  
