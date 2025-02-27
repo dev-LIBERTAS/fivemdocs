@@ -1,6 +1,6 @@
 ---
 label: JOB受け方
-order: 101
+order: 102
 icon: triangle-right
 ---
 
