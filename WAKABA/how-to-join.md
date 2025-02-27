@@ -38,9 +38,15 @@ how-to-join.md
 4."`Fivem needs to update the local game data`"が表示された場合、"**はい**"を選択し、追加のデータをインストールしてください。  
 <br>
 <br>  
-![fivem4](https://github.com/user-attachments/assets/0d5673f2-38af-4b9d-9f89-4b5d52d3324d)
+![fivem4](https://github.com/user-attachments/assets/0d5673f2-38af-4b9d-9f89-4b5d52d3324d)  
+<br>
+<br>  
 5.インストールが終わると利用規約の同意を求められるので"I Accept"を選択します。  
-![fivem5](https://github.com/user-attachments/assets/4b3f7088-c94e-4094-9a48-e062559f4597)
+<br>
+<br>  
+![fivem5](https://github.com/user-attachments/assets/4b3f7088-c94e-4094-9a48-e062559f4597)  
+<br>
+<br>  
 6.Cfxアカウントを作成します。必須ではありませんので必要ない方は7までスキップしてください。  
 "`Don't have an account? Register`"を選択し、Email、パスワード、ユーザー名を入力し、サイトの指示に従ってください。  
 ![fivem6](https://github.com/user-attachments/assets/06e41421-86f2-412b-92f6-128ec5fbdb62)
