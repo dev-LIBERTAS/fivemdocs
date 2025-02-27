@@ -11,4 +11,4 @@ how-to-join.md
 `SURE, I AGREEI`を選択してFivem.exeをインストールします。
 ![fivem1](https://github.com/user-attachments/assets/3fb35d63-e6de-4185-9155-1e098ce88aaf)
 2.ダウンロードした`Fivem.exe`をダブルクリックし、起動します。
-この時、<font color="Red">Fivem.exe</font>をダウンロードフォルダーから"移動せず"に起動することを推奨します。
+この時、<font color="Red">Fivem.exeをダウンロードフォルダーから"移動せず"に起動することを推奨します。
