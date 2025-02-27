@@ -1,3 +1,9 @@
+---
+label: ごみ収集
+order: 102
+icon: triangle-right
+---
+
 # ごみ収集のやり方
 1.**GANRBAGECOLLECTOR**を選択します。
 ![スクリーンショット 2025-02-27 075354c](https://github.com/user-attachments/assets/ab13dada-6efe-46f8-9b6f-86eda141dde7)
