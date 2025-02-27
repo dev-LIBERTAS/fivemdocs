@@ -20,8 +20,6 @@ how-to-join.md
 <br>
 **※ 開かれなかった場合は4までスキップを。自動で検出されています。**
 ![fivem2](https://github.com/user-attachments/assets/1e2809be-749b-4f30-acdf-96820aa75bed)
-<br>
-<br>
 **"GTA5"** が見つからない場合（見つけた方は4までスキップしてください。)  
 * steamでGTAVを購入した人
     * Steamを開き、"ライブラリ"に移動
