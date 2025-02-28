@@ -15,4 +15,6 @@ icon: triangle-right
 ```
 connect fivem.libertasmc.xyz
 ```
-![](https://github.com/user-attachments/assets/b9d45b57-4efa-4267-abdc-16bedd442bab)
+![](https://github.com/user-attachments/assets/b1376ca5-2501-43e8-86ce-edeeb13e1ffc)
+
+
