@@ -7,7 +7,8 @@ icon: triangle-right
 
 # LIBERTASサーバー接続方法
 1.FiveMを開きます。
-![](https://github.com/user-attachments/assets/1ce508ce-62ff-415b-a337-9a3bed65acad)
+![](https://github.com/user-attachments/assets/ce40be1d-489d-43e5-8e14-857d6be5aa5c)
+
 
 2.開くことができたらF8キーを押して下記コマンドを貼り付けてEnterを押すことで接続できます。  
 
