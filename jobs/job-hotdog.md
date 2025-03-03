@@ -9,7 +9,7 @@ icon: triangle-right
 2.MAP上に表示されるオレンジのHマークへ向かいます。
 ![スクリーンショット 2025-03-03 184942](https://github.com/user-attachments/assets/a91618a6-cf09-400a-909b-03d71513dd95)
 3.この扉の前でEキーを押すとJOBを開始できます。
-![スクリーンショット 2025-03-03 185027](https://github.com/user-attachments/assets/02f69243-6f90-4de8-b3ca-a29844b68409)
+![スクリーンショット 2025-03-03 185027b](https://github.com/user-attachments/assets/6d23a0fb-12b0-4d58-97e9-4eb7de93b623)
 4.JOBを開始すると、スタンドがでてきますので近づいてGキーを押し、人通りが多い歩道に移動させます。
 ![スクリーンショット 2025-03-03 185223](https://github.com/user-attachments/assets/51bd2dbc-4d3f-43df-855b-a6265a63c4ae)
 5.スタンドに向かってF1キーを押し、**CITIZEN**を選択します。
